@@ -1,0 +1,299 @@
+body
+{
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+.container img
+{
+	width: 100%;
+	height: 147px;
+}
+
+footer 
+{
+	background-color: #1a1a1a;
+	width: 100%;
+	height: 398px;
+	position: ;
+	position: relative;
+}
+
+.container img
+{
+	size: 100%;
+}
+
+.tglbtn
+{
+	width: 45px;
+	height: 32px;
+	margin-left: 13px;
+	margin-bottom: -23px;
+	position: relative;
+}
+
+.ban img
+{
+	width: 1.5%;
+	height: 1.5%;
+	float: right;
+	margin-right: 5%;
+	margin-top: -2%;
+}
+
+.menu a
+{
+	position: relative;
+	margin: 2%;
+	color: #131414;
+	background-color: white;
+	text-decoration-line: none;
+	font-size: 0.55em;
+	font-family: arial narrow;
+	font-weight: bold;
+	line-height: 5%;
+	background-attachment: fixed;
+}
+
+.menu a:hover
+{
+	color: grey;
+}
+
+.container-section div
+{
+	margin-left: 25%;
+	size: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+.article1 p
+{
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-top: 1%; 
+	font-family: arial;
+	font-size: 85%;
+}
+
+.article1 h1
+{
+	margin-left: 30%;
+	margin-right: 30%;
+	font-size: 225%;
+	font-family: arial;
+}
+
+
+
+.section-form div
+{
+	background-color: #1a1a1a;
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-bottom: 20%;
+	width: 50%;
+	height: 317px;
+}
+
+.form
+{
+	
+}
+
+.form p
+{
+   margin-top: 9%;
+   margin-left: 4%;
+   font-size: 15px;
+   font-weight: bold;
+   color: #d3dde0;
+   font-family: arial;
+   position: absolute;
+}
+
+.form select
+{
+	position: relative;
+	float: right;
+	margin-top: 22%;
+	margin-right: 2%;
+	height: 17px;
+}
+
+.brchd 
+{
+	border: none;
+	border-bottom: 1px solid white;
+	background-color: #1a1a1a;
+}
+
+.brchd:focus 
+{
+	border-bottom: 1px solid white;
+	outline: none;
+}
+
+.form input
+{
+	position: relative;
+	width: 80%;
+	height: 30px;
+	margin-top: 22%;
+	margin-left: 9%;
+}
+
+.brchd::placeholder
+{
+	font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.ecbtn  hr
+{
+	width: 4%;
+	margin-left: 25%;
+	margin-top: 2%;
+}
+
+.ecbtn p
+{
+	font-family: Bahnschrift SemiBold;
+	font-weight: bold;
+	font-size: 46%;
+	margin-left: 25%;	
+}
+
+.monbouton
+{
+	width: 4%;
+	height: 13px;
+	margin-left: 25%;
+	background-image: url(Annotation 2020-12-17 122606.jpg);
+	border-bottom: 1px 1px 1px 1px solid white;
+	border: none;
+}
+
+.ttbouton div
+{
+	margin-top: -18%;
+}
+
+.ttbouton
+{
+	margin-bottom: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ttfooter
+{
+	position: absolute;
+	text-align: center;
+	margin-left: 20%;
+	color: white;
+}
+
+.brch
+{
+	width: 76%;
+	height: 16px;
+	margin-bottom: 5px;
+	margin-left: 36px;
+}
+
+.btn
+{
+	width: 77%;
+	height: 30px;
+	background-color: #616161;
+	border: none;
+	margin-left: 36px;
+}
+
+.ttfooter p
+{
+	color: white;
+	font-size: 14px;
+	margin-left: 90px;
+	font-family: arial;
+}
+
+.p1 p
+{
+	color: gray;
+	font-size: 12px;
+	margin-bottom: ;
+	font-family: arial;
+}
+
+.p3 p
+{
+	color: white;
+	font-size: 20px;
+	margin-top: 80px;
+	font-family: arial;
+}
+
+.p4 p
+{
+	margin-left: ;
+	margin-right: ;
+	font-family: arial;
+}
+
+.monbouton
+{
+	margin-bottom: -218px;
+}
+
+.drnp p
+{
+	font-family: arial;
+	color: gray;
+	font-size: 13px;
+	position: ;
+	float: left;
+	margin-left: -160px;
+}
